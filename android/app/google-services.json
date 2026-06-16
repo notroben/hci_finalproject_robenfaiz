@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "255337364131",
+    "project_id": "hic-finalproject-rutini",
+    "storage_bucket": "hic-finalproject-rutini.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:255337364131:android:3039e12fa7595775a01d16",
+        "android_client_info": {
+          "package_name": "com.example.hci_finalproject_robenfaiz"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDwzKzeM7uAPtWjJALmT8gzaRlXQRaGvJU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
