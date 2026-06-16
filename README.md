@@ -1,4 +1,4 @@
-# Rutini 🌅
+# Rutini
 
 **Rutini** is an accessibility-first daily routine planner and task-management application built with Flutter. Designed for individuals with cognitive, learning, and sensory differences—specifically targeting **ADHD**, **Autism Spectrum Disorder (ASD)**, and **Dyslexia**—Rutini converts overwhelming routine checklists into single-focus, step-by-step visual guides.
 
@@ -6,7 +6,7 @@ This project was built as the final project for our **Human-Computer Interaction
 
 ---
 
-## 🌟 Core Features
+## Core Features
 
 ### 1. Immersive Focus Mode (Zero Distractions)
 * **Single-Task Focus**: Displays exactly one task at a time (e.g. "Brush your teeth") with large visual layouts and soft, rounded elements to avoid cognitive overload.
@@ -28,7 +28,7 @@ This project was built as the final project for our **Human-Computer Interaction
 
 ---
 
-## 🛠️ Technology Stack
+## Technology Stack
 
 * **Framework**: Flutter (Dart 3.x)
 * **Target Platforms**: Mobile (Android & iOS)
@@ -38,7 +38,7 @@ This project was built as the final project for our **Human-Computer Interaction
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Prerequisites
 * Flutter SDK (3.x or higher)
@@ -66,7 +66,7 @@ To launch the app in your local emulator (it will automatically fall back to **o
 
 ---
 
-## 🔒 Firebase Integration (Optional)
+## Firebase Integration (Optional)
 If you want to configure your own cloud database:
 1. Ensure the Firebase CLI is installed and logged in (`firebase login`).
 2. Run `dart pub global activate flutterfire_cli` to set up compile tools.
