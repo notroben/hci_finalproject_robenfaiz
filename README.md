@@ -35,3 +35,4 @@ This project was built as the final project for our **Human-Computer Interaction
 * **State Management**: BLoC (`flutter_bloc` + `hydrated_bloc` for crash-recovery progress hydration)
 * **Backend Database**: Firebase Firestore (configured with **infinite offline caching** so the app works entirely without internet)
 * **Authentication**: Firebase Authentication (supports Anonymous sign-in for performers and Email/Password for Caregivers)
+
